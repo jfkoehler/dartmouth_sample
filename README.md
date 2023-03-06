@@ -5,6 +5,6 @@ This is a project about ...
 **NOTEBOOKS**
 
 - [Data Accession](notebooks/data.ipynb)
-- [EDA]()
+- [EDA](notebooks/eda.ipynb)
 - [Modeling]()
 - [Conclusions]()
